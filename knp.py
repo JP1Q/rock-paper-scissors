@@ -1,7 +1,7 @@
 import random
 import argparse
 
-class RockPaperScissors:
+class KamenNuzkyPapir:
     def __init__(self, rounds=8):
         """Initialize the game with the given number of rounds."""
         self.rounds = rounds
